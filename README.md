@@ -2,7 +2,7 @@
 Home SOC Lab: Wazuh SIEM deployment monitoring a Windows endpoint via Sysmon
 # Home SOC Lab: Wazuh SIEM Deployment
 
-A self-hosted Security Operations Center (SOC) lab built to gain hands on experience with SIEM deployment, endpoint monitoring, and security event analysis. Built as part of my preparation for entry level SOC Analyst and IT Security roles.
+A self hosted Security Operations Center (SOC) lab built to gain hands on experience with SIEM deployment, endpoint monitoring, and security event analysis. Built as part of my preparation for entry level SOC Analyst and IT Security roles.
 
 ## Summary
 
